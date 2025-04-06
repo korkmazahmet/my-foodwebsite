@@ -32,11 +32,11 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
    ```bash
    git clone https://github.com/korkmazahmet/my-foodwebsite.git
 
-![](images/ekran-1.jpg)
+![](images/ekran-1.png)
 
-![](images/ekran-2.jpg)
+![](images/ekran-2.png)
 
-![](images/ekran-3.jpg)
+![](images/ekran-3.png)
 
 
 

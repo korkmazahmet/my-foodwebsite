@@ -36,9 +36,11 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 ![](images/ekran-2.png)
 
-![](images/ekran-3.png)
+![](images/ekran-3.png)  gif-1.mp4
 
-(images/gif-1.mp4)
+![GIF Açıklaması](images/gif-1.mp4)
+
+
 
 
 index.html dosyasını tarayıcınızda açın.

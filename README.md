@@ -31,12 +31,18 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 1. Bu repo'yu bilgisayarınıza klonlayın:
    ```bash
    git clone https://github.com/korkmazahmet/my-foodwebsite.git
+<h2>Projeden Fotoğraflar</h2>
+
+
 
 ![](images/ekran-1.png)
 
 ![](images/ekran-2.png)
 
 ![](images/ekran-3.png)  
+
+
+<h2>Canlı Önizleme</h2>
 
 ![](images/gif-1.gif)
 

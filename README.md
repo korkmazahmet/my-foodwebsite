@@ -38,7 +38,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 ![](images/ekran-3.png)  
 
-![](images/gif-1.mp4)
+![](images/gif-1.gif)
 
 
 
